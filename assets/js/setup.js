@@ -113,7 +113,7 @@ Alpine.data("SetupForm", () => ({
       integration_setup_url: window.location.origin + r + "/setup/integrations",
       start: document.querySelector("#start-preview").value,
       end: document.querySelector("#end-preview").value,
-      platform: "CTFd",
+      platform: "Sepro",
       state: window.STATE,
     };
 
